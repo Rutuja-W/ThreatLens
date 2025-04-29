@@ -5,9 +5,7 @@
 
 ## 📌 Project Overview
 
-ThreatLens addresses the need for efficient cyber threat monitoring by aggregating cybersecurity news from trusted sources and summarizing them using AI.  
-The project aims to streamline information overload faced by security analysts by providing concise, actionable intelligence.  
-Collected articles are automatically summarized and prepared for visualization in dashboard environments.
+In today's cybersecurity landscape, the rapid growth of online information poses significant challenges for organizations trying to stay ahead of emerging threats. ThreatLens is developed as an AI-driven cyber threat intelligence platform designed to automate the process of gathering, analyzing, and summarizing cybersecurity news articles from a wide range of trusted sources. By leveraging natural language processing techniques, ThreatLens transforms lengthy and often overwhelming news content into concise, actionable summaries that enable security teams to monitor threats more efficiently. The system collects data through APIs and RSS feeds, processes the text to extract key insights, and structures the outputs for seamless integration into threat dashboards or security information systems. Through its lightweight, modular design, ThreatLens aims to reduce analyst workload, improve decision-making speed, and lay a foundation for future integration of advanced summarization models and expanded data source coverage.
 
 ---
 
@@ -33,25 +31,6 @@ Collected articles are automatically summarized and prepared for visualization i
 - **Collection Module:** Fetches articles from NewsAPI and RSS feeds
 - **Summarization Module:** Processes text articles to generate concise summaries using NLP methods
 - **Export Module:** Converts summaries into dashboard-ready formats
-
----
-
-## 🗂️ Directory Structure
-
-ThreatLens/  
-├── code/  
-│   ├── Summarizer.py  
-│   ├── newsapi.conf  
-│   ├── rss-feed.conf  
-│   ├── mapping.json  
-│   ├── newsapi-feed-mappings.json  
-│   ├── dashboard.ndjson  
-├── docs/  
-│   ├── R&D Report.pdf  
-│   ├── Final presentation.pdf  
-│   └── Poster (Coming Soon)  
-├── .gitignore  
-└── README.md  
 
 ---
 
@@ -99,6 +78,7 @@ ThreatLens/
 - Integration of transformer-based abstractive summarizers (e.g., BART, T5)
 - Development of a real-time updating dashboard interface
 - Expansion of data sources to include CVE alerts, dark web monitoring, and threat advisories
+- Expansion of data sources to include CVE alerts, dark web monitoring, security advisories, and vendor-specific threat feeds
 
 ---
 
