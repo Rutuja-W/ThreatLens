@@ -1,0 +1,53 @@
+{
+  "newsapi-feed": {
+    "mappings": {
+      "properties": {
+        "@timestamp": {
+          "type": "date"
+        },
+        "@version": {
+          "type": "keyword"
+        },
+        "source": {
+          "properties": {
+            "id": {
+              "type": "keyword"
+            },
+            "name": {
+              "type": "keyword"
+            }
+          }
+        },
+        "author": {
+          "type": "keyword"
+        },
+        "title": {
+          "type": "keyword",
+          "fields": {
+            "text": {
+              "type": "text"
+            }
+          }
+        },
+        "description": {
+          "type": "text"
+        },
+        "url": {
+          "type": "keyword"
+        },
+        "urlToImage": {
+          "type": "keyword"
+        },
+        "publishedAt": {
+          "type": "date"
+        },
+        "content": {
+          "type": "text"
+        },
+        "tags": {
+          "type": "keyword"
+        }
+      }
+    }
+  }
+}
