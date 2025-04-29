@@ -85,7 +85,7 @@ In today's cybersecurity landscape, the rapid growth of online information poses
 
 - **Gayathri Rayudu** 
 - **Rutuja Wani** 
-- **Gavin** 
-- **Gary** 
+- **Huayu Wang** 
+- **Guoao Yang**
 
 ---
