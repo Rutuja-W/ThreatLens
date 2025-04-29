@@ -34,25 +34,6 @@ In today's cybersecurity landscape, the rapid growth of online information poses
 
 ---
 
-## 🗂️ Directory Structure
-
-ThreatLens/  
-├── code/  
-│   ├── Summarizer.py  
-│   ├── newsapi.conf  
-│   ├── rss-feed.conf  
-│   ├── mapping.json  
-│   ├── newsapi-feed-mappings.json  
-│   ├── dashboard.ndjson  
-├── docs/  
-│   ├── R&D Report.pdf  
-│   ├── Final presentation.pdf  
-│   └── Poster (Coming Soon)  
-├── .gitignore  
-└── README.md  
-
----
-
 ## ⚙️ Setup Instructions
 
 - Clone the repository:  
@@ -97,14 +78,14 @@ ThreatLens/
 - Integration of transformer-based abstractive summarizers (e.g., BART, T5)
 - Development of a real-time updating dashboard interface
 - Expansion of data sources to include CVE alerts, dark web monitoring, and threat advisories
-
+- Expansion of data sources to include CVE alerts, dark web monitoring, security advisories, and vendor-specific threat feeds
 ---
 
 ## 👩‍💻 Contributors
 
-- **Gayathri Rayudu** – Summarization system development, evaluation, documentation  
-- **[Other Team Member Name]** – Feed collection integration, testing  
-- **[Other Team Member Name]** – Dashboard data export design  
-- **[Other Team Member Name]** – Reporting and presentation development  
+- **Gayathri Rayudu** 
+- **Rutuja Wani** 
+- **Gavin** 
+- **Gary** 
 
 ---
