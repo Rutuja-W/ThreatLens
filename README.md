@@ -77,7 +77,6 @@ In today's cybersecurity landscape, the rapid growth of online information poses
 
 - Integration of transformer-based abstractive summarizers (e.g., BART, T5)
 - Development of a real-time updating dashboard interface
-- Expansion of data sources to include CVE alerts, dark web monitoring, and threat advisories
 - Expansion of data sources to include CVE alerts, dark web monitoring, security advisories, and vendor-specific threat feeds
 ---
 
