@@ -89,6 +89,6 @@ In today's cybersecurity landscape, the rapid growth of online information poses
 - **Guoao Yang**
 
 ---
-[![Watch Demo]([![Watch Demo]((https://youtu.be/LUl_XzUXCMM?si=9t-wm_dXLX0bISTH)
-)]
+[![Watch the demo](https://img.youtube.com/vi/LUl_XzUXCMM/0.jpg)](https://youtu.be/LUl_XzUXCMM)
+
 
