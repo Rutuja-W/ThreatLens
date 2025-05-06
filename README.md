@@ -7,7 +7,6 @@
 
 In today's cybersecurity landscape, the rapid growth of online information poses significant challenges for organizations trying to stay ahead of emerging threats. ThreatLens is developed as an AI-driven cyber threat intelligence platform designed to automate the process of gathering, analyzing, and summarizing cybersecurity news articles from a wide range of trusted sources. By leveraging natural language processing techniques, ThreatLens transforms lengthy and often overwhelming news content into concise, actionable summaries that enable security teams to monitor threats more efficiently. The system collects data through APIs and RSS feeds, processes the text to extract key insights, and structures the outputs for seamless integration into threat dashboards or security information systems. Through its lightweight, modular design, ThreatLens aims to reduce analyst workload, improve decision-making speed, and lay a foundation for future integration of advanced summarization models and expanded data source coverage.
 
-Project Dashboard : https://threatlens.kb.westus2.azure.elastic-cloud.com/app/r/s/1XB0S
 
 ---
 
